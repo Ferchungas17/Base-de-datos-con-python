@@ -30,5 +30,5 @@ def main():
         elif op == "5":
             db.close()
             break
-    if __name__ == "__main__":
-        main()
+if __name__ == "__main__":
+     main()
